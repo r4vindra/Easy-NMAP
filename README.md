@@ -69,7 +69,7 @@ sudo apt install figlet
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/easy-nmap.git
+git clone https://github.com/r4vindra/easy-nmap.git
 ```
 
 Move into the directory:
