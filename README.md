@@ -69,13 +69,13 @@ sudo apt install figlet
 Clone the repository:
 
 ```bash
-git clone https://github.com/r4vindra/easy-nmap.git
+git clone https://github.com/r4vindra/Easy-NMAP.git
 ```
 
 Move into the directory:
 
 ```bash
-cd easy-nmap
+cd Easy-NMAP/
 ```
 
 Make the script executable:
